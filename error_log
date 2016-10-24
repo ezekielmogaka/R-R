@@ -1,0 +1,293 @@
+[04-Mar-2016 15:49:59 Africa/Khartoum] PHP Fatal error:  Call to a member function helper() on a non-object in /home/marketse/public_html/marketsectors/application/controllers/Welcome.php on line 11
+[21-Mar-2016 15:35:27 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:36:30 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:37:53 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 158
+[21-Mar-2016 15:40:56 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 158
+[21-Mar-2016 15:41:54 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 158
+[21-Mar-2016 15:42:43 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:42:45 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:42:48 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:43:23 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:44:38 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:48:03 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:49:48 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:51:07 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:52:28 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:55:01 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 15:55:27 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:17:41 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:23:51 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:23:56 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:24:03 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:26:47 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:27:56 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:28:08 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:28:34 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:30:30 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:30:51 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:33:58 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:27 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:29 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:30 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:31 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:31 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:32 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:32 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:33 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:34:33 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:36:11 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:36:14 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:36:15 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[21-Mar-2016 16:36:16 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[22-Mar-2016 12:01:34 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[23-Mar-2016 15:08:02 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[23-Mar-2016 15:14:54 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[23-Mar-2016 15:15:41 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[23-Mar-2016 15:15:56 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '[' in /home/marketse/public_html/application/models/Purchasemodel.php on line 150
+[24-Mar-2016 15:24:44 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 232
+[01-Apr-2016 13:11:36 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 232
+[01-Apr-2016 14:47:54 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 232
+[01-Apr-2016 14:48:21 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 232
+[01-Apr-2016 15:18:37 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 234
+[29-Apr-2016 15:14:21 Africa/Khartoum] PHP Fatal error:  Call to undefined method Home::get_content() in /home/marketse/public_html/application/controllers/Welcome.php on line 146
+[29-Apr-2016 15:17:33 Africa/Khartoum] PHP Fatal error:  Call to undefined method Home::get_content() in /home/marketse/public_html/application/controllers/Welcome.php on line 146
+[03-May-2016 08:40:58 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 08:41:17 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 09:12:51 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 09:20:18 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 09:34:30 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 09:35:16 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 09:35:55 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 09:36:47 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 09:37:26 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 10:31:11 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 11:47:11 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[03-May-2016 13:05:33 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[06-May-2016 12:59:24 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 160
+[09-May-2016 12:51:21 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:53:26 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:54:03 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:55:09 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:55:39 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:56:24 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:56:53 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:57:26 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:57:54 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 12:58:21 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:00:11 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:01:31 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:05:17 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:07:50 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:09:46 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:11:19 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:11:47 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:12:15 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:12:41 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:13:19 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:13:47 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:14:21 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:18:46 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:20:25 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 13:22:21 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:32:53 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:34:42 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:34:55 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:40:57 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:41:42 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:43:50 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:44:19 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:44:42 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:45:19 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 14:45:50 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 15:00:48 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[09-May-2016 15:00:52 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[30-May-2016 13:11:45 Africa/Khartoum] PHP Fatal error:  Function name must be a string in /home/marketse/public_html/application/controllers/Admin.php on line 688
+[31-May-2016 15:35:47 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '=' in /home/marketse/public_html/application/controllers/Purchase.php on line 34
+[31-May-2016 15:35:50 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '=' in /home/marketse/public_html/application/controllers/Purchase.php on line 34
+[31-May-2016 15:35:54 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '=' in /home/marketse/public_html/application/controllers/Purchase.php on line 34
+[31-May-2016 15:36:05 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '=' in /home/marketse/public_html/application/controllers/Purchase.php on line 34
+[02-Jun-2016 09:25:02 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 09:29:16 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 09:31:56 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 09:33:47 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 09:54:33 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 09:58:41 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:01:30 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:03:41 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:05:22 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:07:31 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:09:30 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:11:15 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:14:32 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:18:15 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:20:20 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:35:13 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:41:15 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:43:46 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 10:44:51 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 11:44:07 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 11:45:15 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 11:58:15 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:13:03 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:15:12 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:16:04 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:17:58 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:18:49 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:24:22 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:24:59 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:26:28 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:27:50 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:28:25 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:29:03 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:30:27 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:31:18 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:32:58 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:37:03 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:41:04 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:42:40 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[02-Jun-2016 12:43:46 Africa/Khartoum] PHP Fatal error:  Call to undefined method Admin::manage_reports() in /home/marketse/public_html/application/controllers/Admin.php on line 392
+[07-Jun-2016 11:46:36 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:46:41 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:46:43 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:46:54 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:46:57 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:47:00 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:47:40 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:48:14 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:48:18 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:48:22 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:48:23 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:48:26 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:51:18 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:51:22 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:51:25 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:51:34 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[07-Jun-2016 11:51:55 Africa/Khartoum] PHP Fatal error:  Call to a member function get_content() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 163
+[14-Jun-2016 17:08:44 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '" width='auto' height='auto'/>' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/marketse/public_html/application/views/mainpages/reports.php on line 72
+[14-Jun-2016 17:09:43 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '"' width='auto' height='auto'/' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/marketse/public_html/application/views/mainpages/reports.php on line 72
+[14-Jun-2016 17:10:36 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '"' width='auto' height='auto'/' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/marketse/public_html/application/views/mainpages/reports.php on line 72
+[14-Jun-2016 17:11:21 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '"'. width='auto' height='auto'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/marketse/public_html/application/views/mainpages/reports.php on line 72
+[14-Jun-2016 17:11:25 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '"'. width='auto' height='auto'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/marketse/public_html/application/views/mainpages/reports.php on line 72
+[15-Jun-2016 14:28:51 Africa/Khartoum] PHP Fatal error:  Function name must be a string in /home/marketse/public_html/application/controllers/Admin.php on line 743
+[15-Jun-2016 14:30:08 Africa/Khartoum] PHP Fatal error:  Function name must be a string in /home/marketse/public_html/application/controllers/Admin.php on line 743
+[17-Jun-2016 14:18:49 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:18:49 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:05 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:09 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:11 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:12 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:18 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:23 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:28 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:32 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:37 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:39 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:41 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:42 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:42 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:42 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:42 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:43 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:45 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:46 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:46 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:47 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:19:49 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:20:23 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:20:24 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:20:25 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:20:27 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:20:33 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:21:35 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[17-Jun-2016 14:22:17 Africa/Khartoum] PHP Fatal error:  Cannot redeclare Adminmodel::update_client_payment_data() in /home/marketse/public_html/application/models/Adminmodel.php on line 144
+[18-Jun-2016 15:04:22 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 16:30:56 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 16:31:03 Africa/Khartoum] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 331
+[18-Jun-2016 16:31:13 Africa/Khartoum] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 331
+[18-Jun-2016 16:39:32 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 16:43:01 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 16:43:42 Africa/Khartoum] PHP Fatal error:  Call to a member function real_escape_string() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 331
+[18-Jun-2016 16:59:43 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 17:02:59 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:00:26 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:00:31 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:00:49 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:26:04 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:26:53 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:29:54 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:30:30 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:36:27 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:39:21 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:39:41 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:49:38 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:50:26 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 18:56:25 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:00:13 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:06:38 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:09:34 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:09:40 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:24:23 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:24:26 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:25:26 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:33:34 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:36:41 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:53:48 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 19:54:56 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 20:38:00 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 21:58:01 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 21:58:02 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 22:56:17 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 23:21:48 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 23:21:52 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 23:21:57 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[18-Jun-2016 23:22:13 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 00:18:17 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 00:52:07 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 02:30:39 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 02:30:40 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 02:45:39 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 02:54:23 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 02:54:28 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 06:13:51 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 08:26:55 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 09:10:19 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 11:03:51 Africa/Khartoum] PHP Fatal error:  Call to a member function query() on a non-object in /home/marketse/public_html/system/database/drivers/mysqli/mysqli_driver.php on line 221
+[19-Jun-2016 16:53:43 Africa/Khartoum] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/marketse/public_html/application/models/Activatecheckpaymentexpiry.php on line 11
+[19-Jun-2016 16:53:57 Africa/Khartoum] PHP Fatal error:  Call to a member function num_rows() on a non-object in /home/marketse/public_html/application/models/Activatecheckpaymentexpiry.php on line 11
+[20-Jun-2016 14:01:09 Africa/Khartoum] PHP Fatal error:  Call to undefined method User_model::get_user_by_email() in /home/marketse/public_html/application/controllers/Welcome.php on line 310
+[20-Jun-2016 14:01:35 Africa/Khartoum] PHP Fatal error:  Call to undefined method User_model::get_user_by_email() in /home/marketse/public_html/application/controllers/Welcome.php on line 310
+[20-Jun-2016 14:02:24 Africa/Khartoum] PHP Fatal error:  Call to undefined method User_model::get_user_by_email() in /home/marketse/public_html/application/controllers/Welcome.php on line 310
+[20-Jun-2016 14:14:17 Africa/Khartoum] PHP Parse error:  syntax error, unexpected ')' in /home/marketse/public_html/application/controllers/Welcome.php on line 322
+[20-Jun-2016 14:17:58 Africa/Khartoum] PHP Fatal error:  Call to a member function get_user() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 361
+[20-Jun-2016 14:27:56 Africa/Khartoum] PHP Fatal error:  Call to a member function get_user() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 361
+[20-Jun-2016 15:43:55 Africa/Khartoum] PHP Fatal error:  Call to a member function update_password() on a non-object in /home/marketse/public_html/application/controllers/Welcome.php on line 392
+[21-Jun-2016 13:55:13 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/marketse/public_html/application/controllers/Welcome.php on line 333
+[21-Jun-2016 13:55:20 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/marketse/public_html/application/controllers/Welcome.php on line 333
+[21-Jun-2016 13:56:39 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/marketse/public_html/application/controllers/Welcome.php on line 333
+[22-Jun-2016 14:24:32 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[22-Jun-2016 15:32:24 Africa/Khartoum] PHP Parse error:  syntax error, unexpected ';' in /home/marketse/public_html/application/views/mainpages/contact.php on line 78
+[22-Jun-2016 15:32:32 Africa/Khartoum] PHP Parse error:  syntax error, unexpected ';' in /home/marketse/public_html/application/views/mainpages/contact.php on line 78
+[22-Jun-2016 15:34:38 Africa/Khartoum] PHP Parse error:  syntax error, unexpected ';' in /home/marketse/public_html/application/views/mainpages/contact.php on line 78
+[23-Jun-2016 09:31:00 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 09:31:33 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 09:31:58 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 09:32:44 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 09:33:36 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 09:36:50 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 09:37:34 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 09:43:45 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:09:14 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:09:41 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:10:00 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:10:03 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:25:36 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:26:56 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:27:03 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:27:04 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:27:08 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:27:09 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:30:48 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:32:12 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:33:01 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 39
+[23-Jun-2016 10:34:20 Africa/Khartoum] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/marketse/public_html/application/controllers/Admin.php on line 40
+[08-Jul-2016 12:23:17 Africa/Khartoum] PHP Fatal error:  Call to undefined method Adminmodel::get_articles() in /home/researchandratin/public_html/application/controllers/Admin.php on line 1001

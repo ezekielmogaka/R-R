@@ -1,0 +1,35 @@
+ <aside>
+           
+            <div class="list-group list-group-snippet">
+                <a class="active list-group-item is-menu" href="#" id="tab-preview">
+                    <span class="glyphicon glyphicon-play-circle"></span>
+                    Preview    
+                </a>
+                <a href="#" id="tab-html" class="list-group-item  is-menu">
+                    <span class="glyphicon glyphicon-list"></span>
+                    HTML
+                </a>  
+                             
+                                    <a href="#" id="tab-css" class="list-group-item is-menu">
+                        <span class="glyphicon glyphicon-leaf"></span>
+                        Css
+                    </a>
+                
+                                    <a href="#" id="tab-js" class="list-group-item is-menu">
+                        <span class="glyphicon glyphicon-asterisk"></span>
+                        Js
+                    </a>
+                 
+
+                <a class="list-group-item is-menu" href="#" id="tab-comment">
+                    <span class="glyphicon glyphicon-comment"></span>
+                    Comments                </a>  
+
+                <a class="list-group-item is-menu" href="#" id="tab-information">
+                    <span class="glyphicon glyphicon-book"></span>
+                    Information                </a>
+                                <a class="list-group-item is-menu tip" href="/snippets/download/112" title="Download" data-placement='right'>
+                    <span class="glyphicon glyphicon-download-alt"></span>
+                    Download                </a>     
+            </div>
+         </aside>
